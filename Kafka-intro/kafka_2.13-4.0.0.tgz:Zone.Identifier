@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://kafka.apache.org/
+HostUrl=https://dlcdn.apache.org/kafka/4.0.0/kafka_2.13-4.0.0.tgz
